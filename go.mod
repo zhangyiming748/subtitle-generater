@@ -1,4 +1,4 @@
-module subtitle-generater
+module github.com/zhangyiming748/subtitle-generater
 
 go 1.18
 
