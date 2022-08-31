@@ -1,4 +1,4 @@
-
+*.txt
 vendor
 # 忽略 test 文件夹
 test

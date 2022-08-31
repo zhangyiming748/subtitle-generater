@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/zhangyiming748/subtitle-generater/generater"
 	"log"
 	"os"
-	"subtitle-generater/generater"
 )
 
 func main() {
